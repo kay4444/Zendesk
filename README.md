@@ -2,7 +2,7 @@
 Zendesk test task.
 Test Framework is written using Ruby, Capybara and Rspec.
 
-Prerequisite: Ruby and Bundle are installed.
+Prerequisite: Ruby and Bundler are installed.
 
 Steps to run test:
 1) Clone the repository
